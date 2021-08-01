@@ -508,7 +508,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 0.00,
 	manifest: [
-		{src:"images/Scoup_atlas_1.png?1623735397287", id:"Scoup_atlas_1"}
+		{src:"https://learneverything.github.io/le-actors/actors/Scoup/images/Scoup_atlas_1.png?1623735397287", id:"Scoup_atlas_1"}
 	],
 	preloads: []
 };
